@@ -26,7 +26,7 @@ public:
 {
     for (int i = 0; i < 3; i++)
     {
-        std::cout << "Tower " << i + 1 << ": ";
+        std::cout << "Tower " << i + 1 << "is: ";
 
         ArrayBasedStack& tower = towers[i];
         ArrayBasedStack tempStack;  // Create a temporary stack to hold the elements
