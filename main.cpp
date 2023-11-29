@@ -60,7 +60,7 @@ public:
 	cout << "Enter in moves to make for Towers  of  Hannoi" << endl;
 	cout << "Progam will exit once towers have  been successfully moved of" << endl;
 	cout << "or string of -1 is entered. Moves must be entired in format of" << endl;
-	cout << "<disk>,<column from>,<column to>   NOTE no spaces!!!!" << endl;
+	cout << "<disk>,<column from>,<column to>   NOTEs no spaces!!!!" << endl;
 
 	
 
